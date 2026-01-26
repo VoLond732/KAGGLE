@@ -2,3 +2,6 @@
 train.csv
 test.csv
 
+Метрика: ROC AUC
+
+Kaggle API (слишком большой размер датасета): kaggle competitions download -c ef-msu-2025-comp-2
