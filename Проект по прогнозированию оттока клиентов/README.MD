@@ -43,7 +43,7 @@
 
 ## 📊 Данные
 
-**Источник:** [Churn for Bank Customers](https://www.kaggle.com/datasets/shubh0799/churn-modelling) с Kaggle
+**Источник:** [Churn for Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers) с Kaggle
 
 **Размер данных:** 10,000 клиентов × 14 признаков
 
