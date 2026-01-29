@@ -1,4 +1,4 @@
 # KAGGLE
-Kaggle competitions 
+Kaggle datasets analysis 
 
 Автор - Авагумян Бенямин
