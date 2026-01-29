@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ваш_username/bank-churn-prediction?style=social)](https://github.com/ваш_username/bank-churn-prediction)
+[![GitHub stars](https://img.shields.io/github/stars/ваш_username/bank-churn-prediction?style=social)](https://github.com/VoLond732/bank-churn-prediction)
 
 ## 📌 Оглавление
 - [Описание проекта](#описание-проекта)
